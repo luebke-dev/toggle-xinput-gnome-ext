@@ -1,0 +1,8 @@
+/* Add your custom extension styling here */
+.touch-tap-background-symbolic {
+	/*-gtk-icon-source: url("touch-tap.png");*/
+	/*-gtk-icon-source: -gtk-recolor(url("touch-tap.png"));*/
+	background-image: url("touch-tap.png");
+	height: 16px;
+	width: 16px;
+}
