@@ -3,6 +3,8 @@
   "description": "Toggle a xinput device with a statusbar icon",
   "uuid": "togglexinput@luebke.io",
   "shell-version": [
-    "3.36"
-  ]
+    "3.36",
+    "3.38"
+  ],
+  "version": 2
 }
